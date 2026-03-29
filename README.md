@@ -1,10 +1,14 @@
-# darkmatter-sdk
 # DarkMatter — BYOA SDK
 **Bring Your Own Agent. Plug-and-play AI agents.**
 
-DarkMatter is a lightweight SDK that standardizes how AI agents are built so they can be **installed, run, and composed like plugins**.
+DarkMatter is a lightweight SDK for building plug-and-play AI agents — because the universe already has enough invisible complexity.
 
-Instead of every agent using different structures and commands, DarkMatter defines a **minimal contract** that makes agents portable and interoperable.
+Every agent today behaves like its own gravitational anomaly: different structure, different commands, different assumptions. DarkMatter imposes just enough order to keep things from collapsing into entropy.
+
+Define your agent once. Install it anywhere. Run it without ceremony.
+No framework lock-in. No ritual sacrifices. Just caffeine and execution.
+
+DarkMatter standardizes the minimum needed so agents can coexist — like developers sharing a pot of dangerously strong coffee at 2:17 AM.
 
 ---
 
@@ -302,4 +306,5 @@ MIT
 
 # TL;DR
 
-DarkMatter lets developers **build AI agents that others can install and use like plugins.**
+DarkMatter lets developers build AI agents that plug in and run anywhere —
+because **the only thing that should be dark, dense, and holding your system together is your ~coffee~**
